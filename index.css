@@ -1,10 +1,11 @@
 * {
     margin: 0px;
     padding: 0px;
+    border: none;
 
 }
 
 /* este es un simpe ejemplo de css y aqui comentamos todo*/
 h1  {
-    background-color: blue;
+    background-color: #ff0000;
 }
