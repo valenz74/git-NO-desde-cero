@@ -7,5 +7,10 @@
 
 /* este es un simpe ejemplo de css y aqui comentamos todo*/
 h1  {
-    background-color: #ff0000;
+    background-color: blueviolet;
+}
+
+.contenedor {
+    margin: 2rem;
+    padding: 1rem;
 }
