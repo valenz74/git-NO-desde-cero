@@ -7,7 +7,7 @@
 
 /* este es un simpe ejemplo de css y aqui comentamos todo*/
 h1  {
-    background-color: blueviolet;
+    background-color: rgb(110, 226, 43);
 }
 
 .contenedor {
@@ -20,4 +20,6 @@ h1  {
     margin: 0;
     
 
+    margin: 5rem;
+    padding: 1rem;
 }
